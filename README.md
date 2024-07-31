@@ -10,3 +10,5 @@ Details and code for the simulation of tetralone-ABA's impact on grapevine cold 
 * The 'Weather_data_processing.R' contains the code for North America weather data download from [GHCNd](https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily) and feature extraction.
 * The .py files are ready-to-use scripts for model prediction for different cultivars with or without tetralone-ABA treatment. There should be a 'mutated_NYUS_2_1' model folder under the same dir to execute these scripts.
 * The resutling .csv files will contain all the prediction cold hardiness data, which matches the order of the input data.
+
+Upon the use of the code in the repo, please cite this paper:
