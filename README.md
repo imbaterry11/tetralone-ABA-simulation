@@ -14,4 +14,4 @@ Details and code for the simulation of tetralone-ABA's impact on grapevine cold 
 **An example of the analysis of the simulation:**
 ![Tetralone-ABA's impact on cold damage decrease and budbreak delay in North America](image/potential_ABA_impact_figure.png)
 
-**Upon the use of the code in the repo, please cite this paper:**
+**Upon the use of the code in the repository, please cite this paper:**
